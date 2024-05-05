@@ -45,5 +45,5 @@ This application allows users to encrypt and decrypt images using simple pixel m
 ## How to Run:
 1. Clone the repository or download the source code files.
    ```bash
-   https://github.com/CaptHarsh/PRODIGY_CS_02.git
+   git clone https://github.com/CaptHarsh/PRODIGY_CS_02.git
 3. Install the required libraries using pip:
